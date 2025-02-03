@@ -4,6 +4,9 @@
 
 The Medical Health Insurance Prediction project aims to analyze and predict insurance costs based on various factors such as age, BMI, smoking habits, and region. By leveraging data preprocessing and machine learning models, the project helps in understanding how different attributes impact insurance charges.
 
+# Website
+https://health-insurance-prediction-frontend.vercel.app/
+
 # Dataset
 
 The dataset consists of the following features:
